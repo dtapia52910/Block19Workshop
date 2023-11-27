@@ -1,0 +1,28 @@
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+  }
+  
+  h1 {
+    text-align: center;
+    font-family: Garamond;
+    color: #333;
+    background-color: rgba(248, 234, 222, .7);
+  }
+
+#freelancer-list {
+  list-style-type: none;
+  padding: 0;
+}
+
+#freelancer-list li {
+  border-bottom: 2px solid rgb(149, 48, 65);
+  padding: 10px;
+}
+
+#average-price {
+  margin-top: 20px;
+  color: #333;
+  font-style: italic;
+}
